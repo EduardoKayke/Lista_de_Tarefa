@@ -23,6 +23,8 @@ function ListaDeTarefas(Project) {
 
 <img src="Projeto/assets/img/readme.png" alt="Lista de Tarefas" width="400"/>
 
+</div>
+
 ---
 
 > - Autores: 
